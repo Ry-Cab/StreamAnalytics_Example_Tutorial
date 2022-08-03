@@ -1,0 +1,15 @@
+C:\Users\Ryan\source\repos\HubDeEventos_TanqueDeCrustaceos\HubDeEventos_TanqueDeCrustaceos\bin\Debug\net6.0\HubDeEventos_TanqueDeCrustaceos.exe
+C:\Users\Ryan\source\repos\HubDeEventos_TanqueDeCrustaceos\HubDeEventos_TanqueDeCrustaceos\bin\Debug\net6.0\HubDeEventos_TanqueDeCrustaceos.deps.json
+C:\Users\Ryan\source\repos\HubDeEventos_TanqueDeCrustaceos\HubDeEventos_TanqueDeCrustaceos\bin\Debug\net6.0\HubDeEventos_TanqueDeCrustaceos.runtimeconfig.json
+C:\Users\Ryan\source\repos\HubDeEventos_TanqueDeCrustaceos\HubDeEventos_TanqueDeCrustaceos\bin\Debug\net6.0\HubDeEventos_TanqueDeCrustaceos.dll
+C:\Users\Ryan\source\repos\HubDeEventos_TanqueDeCrustaceos\HubDeEventos_TanqueDeCrustaceos\bin\Debug\net6.0\HubDeEventos_TanqueDeCrustaceos.pdb
+C:\Users\Ryan\source\repos\HubDeEventos_TanqueDeCrustaceos\HubDeEventos_TanqueDeCrustaceos\obj\Debug\net6.0\HubDeEventos_TanqueDeCrustaceos.csproj.AssemblyReference.cache
+C:\Users\Ryan\source\repos\HubDeEventos_TanqueDeCrustaceos\HubDeEventos_TanqueDeCrustaceos\obj\Debug\net6.0\HubDeEventos_TanqueDeCrustaceos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ryan\source\repos\HubDeEventos_TanqueDeCrustaceos\HubDeEventos_TanqueDeCrustaceos\obj\Debug\net6.0\HubDeEventos_TanqueDeCrustaceos.AssemblyInfoInputs.cache
+C:\Users\Ryan\source\repos\HubDeEventos_TanqueDeCrustaceos\HubDeEventos_TanqueDeCrustaceos\obj\Debug\net6.0\HubDeEventos_TanqueDeCrustaceos.AssemblyInfo.cs
+C:\Users\Ryan\source\repos\HubDeEventos_TanqueDeCrustaceos\HubDeEventos_TanqueDeCrustaceos\obj\Debug\net6.0\HubDeEventos_TanqueDeCrustaceos.csproj.CoreCompileInputs.cache
+C:\Users\Ryan\source\repos\HubDeEventos_TanqueDeCrustaceos\HubDeEventos_TanqueDeCrustaceos\obj\Debug\net6.0\HubDeEventos_TanqueDeCrustaceos.dll
+C:\Users\Ryan\source\repos\HubDeEventos_TanqueDeCrustaceos\HubDeEventos_TanqueDeCrustaceos\obj\Debug\net6.0\refint\HubDeEventos_TanqueDeCrustaceos.dll
+C:\Users\Ryan\source\repos\HubDeEventos_TanqueDeCrustaceos\HubDeEventos_TanqueDeCrustaceos\obj\Debug\net6.0\HubDeEventos_TanqueDeCrustaceos.pdb
+C:\Users\Ryan\source\repos\HubDeEventos_TanqueDeCrustaceos\HubDeEventos_TanqueDeCrustaceos\obj\Debug\net6.0\HubDeEventos_TanqueDeCrustaceos.genruntimeconfig.cache
+C:\Users\Ryan\source\repos\HubDeEventos_TanqueDeCrustaceos\HubDeEventos_TanqueDeCrustaceos\obj\Debug\net6.0\ref\HubDeEventos_TanqueDeCrustaceos.dll
